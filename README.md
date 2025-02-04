@@ -52,7 +52,6 @@ insert into login(username,password)  values('admin','useradmin');
 ```
 
 ```
-//Create table
 CREATE TABLE EmployeeData (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
@@ -74,19 +73,26 @@ CREATE TABLE EmployeeData (
 
 ## Screenshots
 
-<img src="icons/front.jpg" alt="Front" width="800" height="800">
+<img src="src/icons/front.png" alt="Front" width="800" height="600">
+
+## Login UI
+<img src="src/icons/login.png" alt="Front" width="500" height="300">
+
+## Home Page
+<img src="src/icons/menu.png" alt="Front" width="800" height="600">
+
+## Add Employee
+<img src="src/icons/add.png" alt="Front" width="800" height="600">
+
+## View Employees
+<img src="src/icons/view.png" alt="Front" width="800" height="400">
+
+## Update Data
+<img src="src/icons/upd.png" alt="Front" width="800" height="400">
+
+## Delete Data
+<img src="src/icons/delete.png" alt="Front" width="600" height="400">
 
 
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are always welcome!
-
-### Steps to Contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Added new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a pull request.
 
